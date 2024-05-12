@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Podcast xsi:noNamespaceSchemaLocation="Esquema%20podcast.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<posts>
+		<post titulo="Cocinando con los expertos" fecha="16-12-2022">
+			<autor>
+				<nombre>Raul</nombre>
+				<avatar>default</avatar>
+			</autor>
+			<introduccion>Aprende a cocinar con los mejores consejos de nuestro expertos</introduccion>
+			<descripcion>Cocina con Raul, Juan y Carlos al aire libre, aprendiendo recetas caseras como pan con queso, queso con pan, y muchisimas mas </descripcion>
+			<tiempo_lectura>80</tiempo_lectura>
+			<num_visualizaciones>7</num_visualizaciones>
+			<num_comentarios>0</num_comentarios>
+			<num_megusta>6</num_megusta>
+			<imagen>cocina.jpeg</imagen>
+		</post>
+		
+		
+		<post titulo="Los mejores lugares para ir" fecha="1-12-2022" >
+        <autor>
+            <nombre>Juan</nombre>
+            <avatar>Default.png</avatar>
+        </autor>
+        <introduccion>Explora los destinos turísticos más populares del año y planifica tu próximo viaje.</introduccion>
+        <descripcion>En este episodio, te llevamos a un viaje por los destinos más codiciados del mundo. Desde playas paradisíacas hasta ciudades históricas, descubre qué lugares están en la lista de deseos de los viajeros este año.</descripcion>
+        <tiempo_lectura>1</tiempo_lectura>
+        <num_visualizaciones>40</num_visualizaciones>
+        <num_comentarios>3</num_comentarios>
+        <num_megusta>26</num_megusta>
+        <imagen>arboles.png</imagen>
+    </post>
+		
+		
+		 <post titulo="Planes para ir de viaje "  fecha="2022-12-20">
+        <autor>
+            <nombre>Carlos</nombre>
+            <avatar>Default.png</avatar>
+        </autor>
+        <introduccion>Descubre valiosos consejos para planificar y disfrutar de un emocionante viaje en ruta.</introduccion>
+        <descripcion>En este episodio, compartimos valiosos consejos para planificar y disfrutar de un emocionante viaje en ruta. Desde la elección del vehículo adecuado hasta la selección de rutas escénicas.</descripcion>
+        <tiempo_lectura>32</tiempo_lectura>
+        <num_visualizaciones>80</num_visualizaciones>
+        <num_comentarios>4</num_comentarios>
+        <num_megusta>7</num_megusta>
+        <imagen>mapa2.png</imagen>
+    </post>
+		
+		<post  titulo="Los Mejores fiestas del mundo" fecha="2022-12-06">
+        <autor>
+            <nombre>Javier</nombre>
+            <avatar>Default</avatar>
+        </autor>
+        <introduccion>Sumérgete en la emoción y la diversidad de los festivales culturales más destacados del mundo.</introduccion>
+        <descripcion>En este episodio, exploramos la riqueza cultural y la atmósfera vibrante de algunos de los mejores festivales del mundo. Desde celebraciones tradicionales hasta eventos modernos.</descripcion>
+        <tiempo_lectura>50</tiempo_lectura>
+        <num_visualizaciones>9</num_visualizaciones>
+        <num_comentarios>4</num_comentarios>
+        <num_megusta>45</num_megusta>
+        <imagen>fiesta2.jpg</imagen>
+        </post>
+		
+		
+		<post titulo="The Wild Project" fecha="2022-12-20">
+			<autor>
+				<nombre>Jordi Salvaje</nombre>
+				<avatar>WildPRoject.jpg</avatar>
+			</autor>
+			<introduccion>Bienvenido a The Wild Project aca te traeremos contenido de calidad</introduccion>
+			<descripcion>Todos los martes y jueves un capitulo nuevo del podcast, traeremos datos interesantes y grandes estrellas al show</descripcion>
+			<tiempo_lectura>80</tiempo_lectura>
+			<num_visualizaciones>65</num_visualizaciones>
+			<num_comentarios>21</num_comentarios>
+			<num_megusta>40</num_megusta>
+			<imagen>WildProject.jpeg</imagen>
+		</post>
+		
+		
+		
+	</posts>
+</Podcast>

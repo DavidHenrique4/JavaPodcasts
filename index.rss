@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcasts</title>
+    <description>Resumen de los últimos episodios de podcasts</description>
+    <link>ejemplo.com</link>
+
+    <item>
+      <title>Cocinando al aire libre</title>
+      <description>Aprende a cocinar con los mejores consejos de nuestros expertos. En este episodio, Cocina con Raul, Juan y Carlos al aire libre, aprendiendo recetas caseras como pan con queso, queso con pan, y muchas más.</description>
+      <link>ejemplo.com</link>
+       <enclosure url="Audio.mp3" length="42000" type="audio/mp3"/>
+    </item>
+
+     <item>
+      <title>Los destinos más requeridos del año </title>
+      <description>Explora los destinos turísticos más populares del año y planifica tu próximo viaje</description>
+      <link>ejemplo.com</link>
+       <enclosure url="Audio.mp3" length="42000" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Planear con Viaje en ruta </title>
+      <description>Descubre valiosos consejos para planificar y disfrutar de un emocionante viaje en ruta.</description>
+      <link>ejemplo.com</link>
+       <enclosure url="Audio.mp3" length="42000" type="audio/mp3"/>
+
+    </item>
+
+    <item>
+      <title>Los Mejores Festivales del Mundo </title>
+      <description>Sumérgete en la emoción y la diversidad de los festivales culturales más destacados del mundo.</description>
+      <link>.ejemplo.com</link>
+       <enclosure url="Audio.mp3" length="42000" type="audio/mp3"/>
+    </item>
+
+     <item>
+      <title>The Wild Project </title>
+      <description>Bienvenido a The Wild Project aca te traeremos contenido de calidad</description>
+      <link>ejemplo.com</link>
+       <enclosure url="Audio.mp3" length="42000" type="audio/mp3"/>
+    </item>
+
+   
+
+
+
+    </rss>
